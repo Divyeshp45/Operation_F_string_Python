@@ -1,0 +1,9 @@
+'''HERE MORE OPERATION THEN IT FOLLOWS PEMDAS
+1.P:()
+2.EXPONENTIAL:E:**
+3.M:X
+4.D: /
+5.A:+
+6.S: - '''
+
+print(3*(3+3)/3-3)
